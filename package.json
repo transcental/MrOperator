@@ -1,0 +1,11 @@
+{
+  "name": "my-project",
+  "module": "index.ts",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "type": "module",
+  "dependencies": {
+    "@slack/bolt": "^3.19.0"
+  }
+}
