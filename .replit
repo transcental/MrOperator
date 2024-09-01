@@ -1,7 +1,7 @@
 entrypoint = "index.ts"
 
 hidden = [".config", "bun.lockb"]
-modules = ["bun-1.1"]
+modules = ["bun-1.1", "nodejs-20"]
 
 [nix]
 channel = "stable-24_05"
